@@ -1,0 +1,5 @@
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data.Model\bin\Debug\BlogTest.Data.Model.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data.Model\bin\Debug\BlogTest.Data.Model.pdb
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data.Model\obj\Debug\BlogTest.Data.Model.csprojResolveAssemblyReference.cache
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data.Model\obj\Debug\BlogTest.Data.Model.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data.Model\obj\Debug\BlogTest.Data.Model.pdb

@@ -1,0 +1,14 @@
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\BlogTest.Presentation.UnitTest.dll.config
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\BlogTest.Presentation.UnitTest.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\BlogTest.Presentation.UnitTest.pdb
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\BlogTest.Data.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\BlogTest.Data.Model.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\EntityFramework.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\BlogTest.Data.Model.pdb
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\BlogTest.Data.pdb
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\bin\Debug\EntityFramework.xml
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\obj\Debug\BlogTest.Presentation.UnitTest.csprojResolveAssemblyReference.cache
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\obj\Debug\BlogTest.Presentation.UnitTest.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Presentation.UnitTest\obj\Debug\BlogTest.Presentation.UnitTest.pdb

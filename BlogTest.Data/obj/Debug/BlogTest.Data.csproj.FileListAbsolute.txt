@@ -1,0 +1,12 @@
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\BlogTest.Data.dll.config
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\BlogTest.Data.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\BlogTest.Data.pdb
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\BlogTest.Data.Model.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\EntityFramework.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\BlogTest.Data.Model.pdb
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\EntityFramework.xml
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\obj\Debug\BlogTest.Data.csprojResolveAssemblyReference.cache
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\obj\Debug\BlogTest.Data.dll
+D:\Projeler\ASP.Net\BlogTest\BlogTest.Data\obj\Debug\BlogTest.Data.pdb
